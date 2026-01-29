@@ -1,3 +1,5 @@
+### This is a fork with the actions/cache dependency pinned as the original maintainer refuses to
+
 this action is in maintenance-only mode and will not be accepting new features.
 
 generally you want to use [pre-commit.ci] which is faster and has more features.
